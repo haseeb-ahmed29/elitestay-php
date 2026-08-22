@@ -1,0 +1,6 @@
+{
+  "name": "atelier/elitestay-php",
+  "require": {
+    "php": ">=8.1"
+  }
+}
